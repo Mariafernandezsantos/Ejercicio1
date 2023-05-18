@@ -18,6 +18,9 @@
   Se utilizará javascript para activar el icono deseado. Ejemplo: en la sección colocamos el emoji triste y el emoji feliz en estado apagado. <br>
   Cuando hacemos click en uno de ellos cambiará a estado activo.
 
+# Esquema:
+![Untitled](https://github.com/PabloEsteban87/Ejercicio1/assets/133370570/60463ee5-21a5-4dfb-9a65-8f2360063da1)
+
 # Herramientas empleadas:
 <ul>
   <li> HTML5 </li>
