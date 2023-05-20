@@ -19,7 +19,17 @@
   Cuando hacemos click en uno de ellos cambiará a estado activo.
 
 # Esquema:
-![Untitled](https://github.com/PabloEsteban87/Ejercicio1/assets/133370570/60463ee5-21a5-4dfb-9a65-8f2360063da1)
+![1 skech](https://github.com/Mariafernandezsantos/Ejercicio1/assets/133371373/dc50f6dc-777c-4376-9411-bbe7d3cd598d)
+
+
+# Mock Up
+![2 Mock up](https://github.com/Mariafernandezsantos/Ejercicio1/assets/133371373/7349d6b1-5a6a-416f-81af-83c1587a9c19)
+
+
+# Prototipo
+![Untitled](https://github.com/Mariafernandezsantos/Ejercicio1/assets/133371373/e0db0655-efd6-46ca-9ea5-8fbc9246d06c)
+
+
 
 # Herramientas empleadas:
 <ul>
